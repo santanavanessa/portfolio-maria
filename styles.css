@@ -522,6 +522,26 @@ span {
     .contact form .input-box input {
         width: 100%;
     }
+
+    .footer {
+        flex-direction: column-reverse;
+        align-items: center;
+    
+
+    }
+
+    
+    .footer .footer_social_media, .footer-iconTop, .footer-text{
+        padding: 1rem; 
+
+    }
+
+    .footer-iconTop, .footer_social_media a{
+        margin-top: 1rem;
+    }
+
+
+
 }
 
 @media (max-width: 365px) {
@@ -535,6 +555,17 @@ span {
 
     .footer {
         flex-direction: column-reverse;
+        align-items: center;
+     
+    }
+
+    .footer .footer_social_media, .footer-iconTop, .footer-text{
+        padding: 1rem; 
+
+    }
+
+    .footer-iconTop, .footer_social_media a{
+        margin-top: 1rem;
     }
 
 }
