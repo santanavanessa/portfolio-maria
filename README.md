@@ -1,5 +1,5 @@
 # Portfólio Web Responsivo
-Portfólio web responsivo, feito com base neste tutorial do Codehal : 
+Portfólio web responsivo, feito com base neste tutorial do Codehal : https://www.youtube.com/watch?v=Tkp3FDgOueM
 
 ## Tecnologias Utilizadas 
 HTML, CSS, Javascript, Typed.js  e ScrollReveal.
